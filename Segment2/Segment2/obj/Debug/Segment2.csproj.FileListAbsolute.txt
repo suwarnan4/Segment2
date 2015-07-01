@@ -1,0 +1,6 @@
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\bin\Debug\Segment2.exe.config
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\bin\Debug\Segment2.exe
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\bin\Debug\Segment2.pdb
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\obj\Debug\Segment2.csprojResolveAssemblyReference.cache
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\obj\Debug\Segment2.exe
+c:\users\annu\documents\visual studio 2013\Projects\Segment2\Segment2\obj\Debug\Segment2.pdb
